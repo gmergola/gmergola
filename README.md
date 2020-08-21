@@ -1,2 +1,2 @@
-![Genna](name.png)
+Hi, I'm Genna
 
