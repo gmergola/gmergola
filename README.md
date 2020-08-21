@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:4em;">G e n n a</span>
+# G e n n a
 
-<span style="font-family:Papyrus; font-size:2em;">Check out my [Portfolio Site](https://gennakearney.com/)!</span>
+#### Check out my [Portfolio Site](https://gennakearney.com/)!
 
