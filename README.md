@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center;">【﻿Ｈｉ，　Ｉ＇ｍ　Ｇｅｎｎａ】</h1>
+<h1>【﻿Ｈｉ，　Ｉ＇ｍ　Ｇｅｎｎａ】</h1>
 
 <details>
   <summary>
