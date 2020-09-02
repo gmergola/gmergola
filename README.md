@@ -2,19 +2,6 @@
 
 <h3>Check out my <a href="https://gennakearney.com/">Portfolio Website</a></h3>
 
-<style>
-  .intro{
-    font-family: 'Long Cang', cursive;
-    font-size: 50px;
-    background-image: url("https://www.renjeau.com/site/wp-content/uploads/2019/07/Horiztonal-180-34x46-Web.jpg");
-    color: white;
-    text-align: center;
-    padding-top: 30%;
-    padding-bottom: 30%;
-    border-radius: 20px;
-}
-</style>
-
 <details>
   <summary>
     Click for some info on me
