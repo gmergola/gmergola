@@ -1,4 +1,4 @@
-<div class="intro">Hi, I'm Genna</div>
+<h1 class="intro">Hi, I'm Genna</h1>
 
 <h3>Check out my <a href="https://gennakearney.com/">Portfolio Website</a></h3>
 
