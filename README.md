@@ -14,7 +14,7 @@
 <br/>
 
 
-😊[ＬｉｎｋｅｄＩｎ](www.linkedin.com/in/genna-mergola)
+😊[ＬｉｎｋｅｄＩｎ](https://www.linkedin.com/in/genna-mergola/)
 <br/>
 <br/>
 ✉️ [Ｅｍａｉｌ](gennamergola@gmail.com)
