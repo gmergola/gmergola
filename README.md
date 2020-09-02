@@ -1,9 +1,9 @@
 
-<h1>Hi, I'm Genna 💖</h1>
+<h1>ℍ𝕚 𝕀'𝕞 𝔾𝕖𝕟𝕟𝕒</h1>
 
 <details>
   <summary>
-    Click for more info about me!
+  【﻿Ｃｌｉｃｋ　ｆｏｒ　ｍｏｒｅ　ｉｎｆｏ　ａｂｏｕｔ　ｍｅ】
   </summary>
 </detials>
 <br/>
@@ -13,6 +13,6 @@
 </div>
 <br/>
 
-* 😊[LinkedIn](www.linkedin.com/in/genna-mergola)
-* ✉️ [Email](gennamergola@gmail.com)
-* 🙋‍♀️[Portfolio](https://gennakearney.com/)
+😊[𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟](www.linkedin.com/in/genna-mergola)
+✉️ [𝔼𝕞𝕒𝕚𝕝](gennamergola@gmail.com)
+🙋‍♀️[ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠](https://gennakearney.com/)
