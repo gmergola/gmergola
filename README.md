@@ -1,6 +1,5 @@
 
-![me](./name.png)
-<!-- <h1>Hi, I'm Genna</h1> -->
+<h1>Hi, I'm Genna</h1>
 
 <h3>Check out my <a href="https://gennakearney.com/">Portfolio Website</a></h3>
 
