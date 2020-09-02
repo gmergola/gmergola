@@ -1,5 +1,5 @@
 
-<h1 style="color:pink" class="intro">Hi, I'm Genna</h1>
+<img src="./name.png">
 
 <h3>Check out my <a href="https://gennakearney.com/">Portfolio Website</a></h3>
 
